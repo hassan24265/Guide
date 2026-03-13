@@ -1,0 +1,31 @@
+Designation procedure of a Sensor Centre
+The procedure for designating a Sensor Centre shall consist of four steps:
+(1) Service offer by a potential Sensor Centre;
+(2) Assessment of technical capabilities;
+(3) Designation as a Sensor Centre;
+(4) Periodic Review and operational assessment.
+1.	Service offer by a potential Sensor Centre
+•	Any WMO Member or organization may propose and operate a new Sensor Centre to address a requirement they have identified. 
+•	The Sensor Centre ecosystem is intended to be extensible, allowing new centres to be established as additional monitoring needs emerge.
+•	An official letter from the Permanent Representative or the Director of the organisation should be sent to the WMO Secretary-General
+•	The letter should formally request Sensor Centre designation, outline the Centre’s capacity to deliver the proposed services, and provide contact details of the Sensor Centre focal point 
+2.	Assessment of technical capabilities
+The candidate Sensor Centre shall undergo technical assessment coordinated by the WMO Secretariat and conducted by the Standing Committee on Information Management and Technology.
+Validation activities include:
+•	Verification of compliance with WIS2 requirements
+•	Assessment of the performance monitoring methodology
+•	Definition and implementation of performance indicators
+•	Consistent of the metrics calculation
+•	Production of metrics and KPIs
+•	Capability to share monitoring results with Global monitors 
+After the candidate Sensor Centre has successfully passed the assessment, the President of INFCOM shall approve the candidate Sensor Centre and request the WMO Secretariat to add it to the list of approved Sensor centres.
+3.	Designated Sensor Centres
+The list of Sensor centres approved by the President of INFCOM is maintained and published by WMO Secretariat. 
+4.	Periodic Review and operational assessment  
+To maintain fitness for purpose:
+•	Periodic performance and operational assessment  shall be conducted
+•	Key Performance Indicators (KPIs) will be established, monitored, and reviewed regularly to evaluate operational effectiveness, reliability, and compliance with defined performance targets. 
+Significant non-compliance may trigger:
+•	Remediation actions: The service provider may be required to implement a corrective action plan within a defined timeframe, with progress monitored and reported until compliance is restored. During this period, the Standing Committee may decide to temporarily suspend the Sensor centre service until the identified issues are resolved.
+•	Conditional status: The Global Service may be placed under probation with specific conditions, enhanced monitoring, or periodic reviews. During this period, the Standing Committee may decide to temporarily suspend the Sensor centre service until the identified issues are resolved.
+•	Possible withdrawal: If non-compliance persists or significantly affects the service, its designation shall be suspended or withdrawn following review and recommendation to the INFCOM President.
