@@ -1,4 +1,4 @@
-Designation procedure of a Sensor Centre
+Designation procedure of a Sensor Centre   
 The procedure for designating a Sensor Centre shall consist of four steps:
 (1) Service offer by a potential Sensor Centre;
 (2) Assessment of technical capabilities;
