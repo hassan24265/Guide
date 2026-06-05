@@ -30,7 +30,9 @@ Note: The WIS 2.0 principles are further elaborated in Appendix A to this Manual
 Note: More information on the technical specifications of WIS 2.0 can be found in the Guide to the WMO Information System (WMO-No. 1061), Volume II (hereinafter Guide to WIS, Volume II).
 
 Note: More information on the transition plan for WIS 2.0 can be found in the Provisions for the Transition from the WMO Information System (WIS) 1.0 and Global Telecommunications System to WIS 2.0 (WMO-No. 1323).
-
+(11) I'm testing the change of the doc
+(12) if change is ok tha will be fine
+(13) if not I learned something
 1.2 ORGANIZATION OF WIS
 
 1.2.1 In keeping with the Technical Regulations (WMO-No. 49), Volume I, Part II, 1.2.2, centres operated by WMO Members and their collaborating organizations shall be categorized as one of the three types of WIS centres forming the core infrastructure of WIS:
