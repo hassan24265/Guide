@@ -12,7 +12,7 @@ The procedure for designating a Sensor Centre shall consist of four steps:
 2.	Assessment of technical capabilities
 The candidate Sensor Centre shall undergo technical assessment coordinated by the WMO Secretariat and conducted by the Standing Committee on Information Management and Technology.
 Validation activities include:
-•	Verification of compliance with WIS2 requirements
+•	je veux juste tester ce changement
 •	Assessment of the performance monitoring methodology
 •	Definition and implementation of performance indicators
 •	Consistent of the metrics calculation
