@@ -1,13 +1,13 @@
-Designation procedure of a Sensor Centre   
-The procedure for designating a Sensor Centre shall consist of four steps:
-(1) Service offer by a potential Sensor Centre;
-(2) Assessment of technical capabilities;
-(3) Designation as a Sensor Centre;
-(4) Periodic Review and operational assessment.
-1.	Service offer by a potential Sensor Centre
-•	Any WMO Member or organization may propose and operate a new Sensor Centre to address a requirement they have identified. 
-•	The Sensor Centre ecosystem is intended to be extensible, allowing new centres to be established as additional monitoring needs emerge.
-•	An official letter from the Permanent Representative or the Director of the organisation should be sent to the WMO Secretary-General
+Designation procedure of a Sensor Centre    
+The procedure for designating a Sensor Centre shall consist of four steps:  
+(1) Service offer by a potential Sensor Centre;  
+(2) Assessment of technical capabilities;  
+(3) Designation as a Sensor Centre;  
+(4) Periodic Review and operational assessment.  
+1.	Service offer by a potential Sensor Centre   
+•	Any WMO Member or organization may propose and operate a new Sensor Centre to address a requirement they have   identified. 
+•	The Sensor Centre ecosystem is intended to be extensible, allowing new centres to be established as additional    monitoring needs emerge.  
+•	An official letter from the Permanent Representative or the Director of the organisation should be sent to the WMO   Secretary-General   
 •	The letter should formally request Sensor Centre designation, outline the Centre’s capacity to deliver the proposed services, and provide contact details of the Sensor Centre focal point 
 2.	Assessment of technical capabilities
 The candidate Sensor Centre shall undergo technical assessment coordinated by the WMO Secretariat and conducted by the Standing Committee on Information Management and Technology.
